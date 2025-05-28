@@ -4,7 +4,7 @@
 **Overview**  
 This project delivers a comprehensive analysis of sales performance and customer behavior in a fashion retail business, drawing on data from 2022 to 2023. The dashboard is designed to offer actionable insights into product performance, purchasing habits, and revenue trends, empowering data-driven decision-making.
 
-![Project_Overview](/Dashboard/Sales_Perfomrance_Dashboard 1.png)  
+![Project_Overview](/Dashboard/Sales_Perfomrance_Dashboard1.png)  
 
 **Project Overview**
 
