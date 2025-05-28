@@ -14,14 +14,14 @@ This project delivers a comprehensive analysis of sales performance and customer
   - Insights into monthly sales trends and weekly patterns.
   - Detailed analysis of product performance, showcasing both top sellers and items that are lagging.
  
-    ![Sales_performance](/Dashboard/sales_performance_Dashboard2.PNG)
+    ![Sales_performance](/Dashboard/Sales_Performance_Dashboard2.png)
 
 - **Customer Insights**
   - Segmented 166 unique customers based on their value to the business.
   - Compared the behavior patterns of repeat customers to one another, showing that their loyalty is strong since there are       no new customers.
   - Identified the top 10 customers based on spending frequency and their contribution to revenue.
 
-       ![customer_metrics](/Dashboard/Customer_Behaviour_Analysis.PNG)
+       ![customer_metrics](/Dashboard/Customer_Behaviour_Analysis.png)  
 
 - **Product Analysis**
   - Highlighted best-selling fashion items, including handbags, jeans, and loafers.
