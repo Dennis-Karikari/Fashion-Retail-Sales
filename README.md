@@ -13,7 +13,7 @@ This project delivers a comprehensive analysis of sales performance and customer
   - Achieved a total revenue of $511,940K from 3,400 transactions.
   - Insights into monthly sales trends and weekly patterns.
   - Detailed analysis of product performance, showcasing both top sellers and items that are lagging.
-  - revenue by payment method to see which payment method is mostly used by customers
+  - Revenue by payment method to see which payment method is mostly used by customers
  
     ![Sales_performance](/Dashboard/Sales_Performance_dashboard2.png)
 
