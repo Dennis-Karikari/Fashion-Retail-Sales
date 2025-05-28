@@ -4,7 +4,7 @@
 **Overview**  
 This project delivers a comprehensive analysis of sales performance and customer behavior in a fashion retail business, drawing on data from 2022 to 2023. The dashboard is designed to offer actionable insights into product performance, purchasing habits, and revenue trends, empowering data-driven decision-making.
 
-![Project_Overview](/dashboard/sales_performance_Dashboard1.PNG)
+![Project_Overview](/images/sales_performance_Dashboard1.PNG)
 
 **Project Overview**
 
@@ -14,14 +14,14 @@ This project delivers a comprehensive analysis of sales performance and customer
   - Insights into monthly sales trends and weekly patterns.
   - Detailed analysis of product performance, showcasing both top sellers and items that are lagging.
  
-    ![Sales_performance](/dashboard/sales_performance_Dashboard2.PNG)
+    ![Sales_performance](/images/sales_performance_Dashboard2.PNG)
 
 - **Customer Insights**
   - Segmented 166 unique customers based on their value to the business.
   - Compared the behavior patterns of repeat customers to one another, showing that their loyalty is strong since there are       no new customers.
   - Identified the top 10 customers based on spending frequency and their contribution to revenue.
 
-       ![customer_metrics](/dashboard/Customer_Behaviour_Analysis.PNG)
+       ![customer_metrics](/images/Customer_Behaviour_Analysis.PNG)
 
 - **Product Analysis**
   - Highlighted best-selling fashion items, including handbags, jeans, and loafers.
