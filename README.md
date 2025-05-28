@@ -14,7 +14,7 @@ This project delivers a comprehensive analysis of sales performance and customer
   - Insights into monthly sales trends and weekly patterns.
   - Detailed analysis of product performance, showcasing both top sellers and items that are lagging.
  
-    ![Sales_performance](/Dashboard/Sales_Performance_Dashboard2.png)
+    ![Sales_performance](/Dashboard/Sales_Performance_dashboard2.png)
 
 - **Customer Insights**
   - Segmented 166 unique customers based on their value to the business.
