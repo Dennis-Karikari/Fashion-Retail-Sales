@@ -54,17 +54,17 @@ This dashboard focuses on customer segmentation, spending patterns, and repeat p
 - **Data**: 
   - Customer 4075: 28 purchases, $7,763.00
   - Customer 4002: 26 purchases, $6,754.00
-  - Customer 4108: 26 purchases, $6,727.00
-  - Customer 4040: 25 purchases, $6,568.00
+  - Customer 4108: 26 purchases, $7,827.00
+  - Customer 4040: 25 purchases, $10,568.00
   - Customer 4010: 24 purchases, $7,088.00
-  - Customer 4044: 24 purchases, $6,397.00
+  - Customer 4044: 24 purchases, $9,397.00
   - Customer 4103: 23 purchases, $6,709.00
   - Customer 4067: 21 purchases, $6,637.00
   - Customer 3984: 19 purchases, $6,943.00
-  - Customer 4109: 16 purchases, $1,011.20
-  - **Total Revenue from Top 10**: $59,798.00
-- **Data Validation**: The top 10 customers contribute $59,798, which is 11.68% of the total revenue ($59,798 ÷ $511,940). This aligns with expectations, as the top 10 out of 166 customers (6% of customers) generating ~11.7% of revenue indicates a moderate concentration of spending.
-- **Insight**: High spenders like Customer 4075 are critical to revenue. Customer 4109’s low spending ($1,011.20) despite 16 purchases suggests they may be buying low-value items, warranting further analysis.
+  - Customer 4109: 16 purchases, $10,112.00
+  - **Total Revenue from Top 10**: $79,798.00
+- **Data Validation**: The top 10 customers contribute $79,798, which is 15.58% of the total revenue ($79,798 ÷ $511,940). This aligns with expectations, as the top 10 out of 166 customers (6% of customers) generating 15.5% of revenue indicates a moderate concentration of spending.
+- **Insight**: High spenders like Customer 4040 are critical to revenue. Customer 4067’s low spending ($6,637.00) despite 21 purchases suggests they may be buying low-value items, warranting further analysis.
 
 #### Visual 4: Average Customer Revenue by CLV Segment (Bar Chart)
 - **Description**: A bar chart showing the average revenue per customer across three Customer Lifetime Value (CLV) segments.
