@@ -155,10 +155,10 @@ This dashboard provides a comprehensive view of sales metrics, product performan
 
 ## Key Insights and Recommendations
 1. **Customer Retention vs Acquisition**: With 100% repeat customers, focus on new customer acquisition. A marketing campaign could attract 50 new customers, potentially adding $75K in revenue (assuming they match the average customer revenue of $1.5K).
-2. **Seasonal Sales Trends**: The sales decline in late 2023 could be mitigated with mid-year promotions, potentially adding $120K in revenue.
+2. **Seasonal Sales Trends**: The sales decline in late 2023 could be mitigated with mid-year promotions, potentially adding $200K in revenue.
 3. **Product Performance**: Improving quality for low-rated top sellers like Tunic could add $5K to revenue per item.
 4. **Payment Methods**: Shifting 10% of cash payments to credit cards could add $25K in revenue.
-5. **Sales by Day**: Promotions on Sundays and Fridays could add $19K annually.
+5. **Sales by Day**: Promotions on Sundays and Fridays could add $16K annually.
 
 ---
 
