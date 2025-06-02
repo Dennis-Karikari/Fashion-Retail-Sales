@@ -42,7 +42,7 @@ This dashboard focuses on customer segmentation, spending patterns, and repeat p
 #### Visual 1: Total Unique Customers
 - **Description**: Displays the total number of unique customers.
 - **Value**: 166
-- **Insight**: The business has a small but loyal customer base, as 166 unique customers contributed to 3400 transactions, averaging ~20.5 transactions per customer (3400 ÷ 166).
+- **Insight**: The business has a small but loyal customer base, as 166 unique customers contributed to 3400 transactions, averaging 20.5 transactions per customer (3400 ÷ 166).
 
 #### Visual 2: Repeat vs New Customers (Donut Chart)
 - **Description**: A donut chart showing the proportion of repeat vs new customers.
