@@ -124,6 +124,9 @@ This dashboard provides a comprehensive view of sales metrics, product performan
 - **Insight**: Sundays and Fridays are peak days. A 10% sales boost on these days through promotions could add $16.5K to annual revenue ($85.3K × 10% + $80.6K × 10%).
 
 #### Visual 5: Revenue by Payment Method (Donut Chart)
+
+![Payment_method](Dashboard/Sales_Performance_dashboard2.png) 
+
 - **Description**: A donut chart showing the revenue split between payment methods.
 - **Data**: 
   - Credit Card: $240.1K (47%)
